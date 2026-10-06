@@ -1,0 +1,14 @@
+database: repopulse.db
+
+repositories:
+  - name: cpython
+    owner: python
+    repo: cpython
+
+  - name: flask
+    owner: pallets
+    repo: flask
+
+  - name: requests
+    owner: psf
+    repo: requests
